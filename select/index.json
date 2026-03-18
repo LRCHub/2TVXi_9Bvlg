@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "DOGTOOTH",
+  "base_artist": "Tyler, The Creator",
+  "createdAt": "2026-03-18T12:34:02.075298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DOGTOOTH",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/01_DOGTOOTH_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DOGTOOTH",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/02_DOGTOOTH_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DOGTOOTH",
+      "artist": "Tyler, the Creator",
+      "has_synced": true,
+      "path": "select/03_DOGTOOTH_Tyler,_the_Creator.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DOGTOOTH",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/04_DOGTOOTH_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DOGTOOTH",
+      "artist": "Tyler",
+      "has_synced": true,
+      "path": "select/05_DOGTOOTH_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dogtooth",
+      "artist": "Tyler The Creator",
+      "has_synced": true,
+      "path": "select/06_Dogtooth_Tyler_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DOGTOOTH",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/07_DOGTOOTH_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DOGTOOTH 🅴",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/08_DOGTOOTH_🅴_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOGTOOTH",
+      "artist": "Tyler, The Creator",
+      "has_synced": false,
+      "path": "select/pl_01_DOGTOOTH_Tyler,_The_Creator.txt"
+    }
+  ]
+}
